@@ -15,7 +15,8 @@ Built a fun quiz app about me using following  APIs :
 - Rule 1 : There are 3 Levels, each level has 5 questions.
 - Rule 2 : Score atleast 4 in each section to crack next level.
 
-                        ___TRY YOUR BEST___
+
+     ___TRY YOUR BEST___
 
 # [readline-sync](https://www.npmjs.com/package/readline-sync "readline-sync")
 readlineSync tries to let your script have a conversation with the user via a console, even when the input/output stream is redirected
